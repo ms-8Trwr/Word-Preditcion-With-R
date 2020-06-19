@@ -9,5 +9,11 @@ The main R file including:
   3. Training the model
   4. Predicting text on a sample from the given data
 
-# 01MND.txt
+## 01MND.txt
 A shakespeare text file as the original file source, you can edit to suit your text by simply changing the file name in the main.R code
+
+# REQUIREMENTS
+The following libraries are required to run the program
+  1. Stringr
+  2. Keras
+  3. TensorFlow (python must be installed on the machine)
